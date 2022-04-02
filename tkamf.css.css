@@ -1,0 +1,65 @@
+@charset "UTF-8";
+.contCHANGETHISTOATORESTOREiner{
+max-width: 960px;	
+margin: 0 auto;
+font-size: 24px;
+padding: 25px;	
+}
+.parallax{
+    background-attachment: fixed;
+    background-size: 325px;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    min-height: 600px;
+    background-color: #FFFFFF;
+    background-image: url("../assets/illustrator/frog/divine_destroyer.png");
+}
+.parallax2{
+    background-attachment: fixed;
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 500px;
+	background-color: lightyellow;
+    background-image: url("../assets/illustrator/frog/elbarn.png");
+}
+.parallax3{
+    background-attachment: fixed;
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 500px;
+	background-color: aqua;
+    background-image: url("../assets/illustrator/frog/beelzeboofu.png")
+}
+.parallax4{
+    background-attachment: fixed;
+    background-size: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 500px;
+	background-color: #FFFFFF;
+    background-image: url("../assets/illustrator/frog/sacrilege.png");
+}
+.parallax5{
+    background-attachment: fixed;
+    background-size: 600px;
+    background-position: center;
+    text-align: center;
+    height: 500px;
+	background-color: #6629A0;
+    background-image: url("../assets/illustrator/frog/Christ.png");
+    background-repeat: no-repeat;
+}
+body, html{
+    height: 100%;
+    -webkit-box-shadow: 0 0 0 0 #40B417;
+    box-shadow: 0 0 0 0 #40B417;
+}
+body {
+	margin: 0px
+}
